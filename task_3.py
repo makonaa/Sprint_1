@@ -8,7 +8,7 @@ world_champions = {
 # №1 - added Argentina to world_champions
 world_champions[2022] = 'Аргентина'
 
-# №2 - printed out world_champions in format: <year> - <champion>
+# №2 - displayed world_champions in format: <year> - <champion>
 for key, value in world_champions.items():
     print(f'{key} - {value}')
 
