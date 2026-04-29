@@ -1,4 +1,3 @@
-import copy
 
 types = {
     1: 'Блокирующий',
